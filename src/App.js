@@ -3,7 +3,7 @@
 // import Hoc from "./Hoc/Hoc";
 // const App =()=> {
 //   return (
-//     <div  className="App" >
+//     <div  assName="App" >
 //       <Hoc Primary/>
 //     </div>
 //   );
